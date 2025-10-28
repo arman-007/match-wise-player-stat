@@ -33,7 +33,7 @@
     "long_balls_won": 0,
     "interceptions": 0, //apifootball
     "key_passes": 0, //apifootball
-    "successful_dribbles": 0, //apifootball
+    // "successful_dribbles": 0, //apifootball  >>repeated
     "through_balls_won": 0,
     "tackles": 0, //apifootball
     "fouls": 0, //apifootball
@@ -44,14 +44,14 @@
     "bonus_points": 0,
     "bps": 0,
     "total_points": 0,
-    "cs": true,
+    // "cs": true, >> repeated ?clean sheets??
     "xG": 0.0,
     "xA": 0.0,
     "xA_per_90": 0.0,
     "dispossessed": 0, //apifootball
     "dribbled_past": 0, //apifootball
     "fouls_drawn": 0, //apifootball
-    "recoveries": 0,
+    "recoveries": 0, // BALL_RECOVERY in sportmonks
     "recoveries_per_90": 0.0,
     "duels_won": 0, //apifootball
     "duels_lost": 0, //apifootball > have total so. lost = total - won
